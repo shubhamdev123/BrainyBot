@@ -2,7 +2,7 @@
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://ai.visheshpandey.com)
+[chat-ai]([https://ai.visheshpandey.com](https://brainy-botshubham.vercel.app/))
 
 ## Setup Procedure
 
